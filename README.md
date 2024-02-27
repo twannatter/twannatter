@@ -8,5 +8,5 @@
 
 <!-- Metrics SVG by lowlighter - https://github.com/lowlighter/metrics -->
 <p align="center">
-  <img src="https://github.com/twannatter/twannatter/blob/main/github-metrics.svg">
+  <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/twannatter/twannatter/blob/main/github-metrics.svg"></a>
 </p>
