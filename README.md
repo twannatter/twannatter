@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to my profile!
+</h3>
 
-<!--
-**twannatter/twannatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things!;+Currently+learning+Rust!&center=true&width=550&height=45"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Metrics SVG by lowlighter - https://github.com/lowlighter/metrics -->
+<p align="center">
+  <img src="https://github.com/twannatter/twannatter/blob/main/github-metrics.svg">
+</p>
