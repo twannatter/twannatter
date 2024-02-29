@@ -20,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.SECRET_TOKEN }}
           user: twannatter
+          repositories_skipped: 2GOSoftware/Licentie2GO
           template: classic
           base: |
             header,
