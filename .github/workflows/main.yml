@@ -22,7 +22,8 @@ jobs:
           user: twannatter
           repositories_skipped: |
             # Skip everything work related (private repos)
-            2GOSoftware/*
+            2GOSoftware/Licentie2GO
+            2GOSoftware/Docker
           template: classic
           base: |
             header,
