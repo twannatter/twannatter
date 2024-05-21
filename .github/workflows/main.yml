@@ -24,6 +24,7 @@ jobs:
             # Skip everything work related (private repos)
             2GOSoftware/Licentie2GO
             2GOSoftware/Docker
+            2GOSoftware/LicentieServer
           template: classic
           base: |
             header,
